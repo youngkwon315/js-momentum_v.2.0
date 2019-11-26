@@ -39,7 +39,10 @@ h1 {
   color: #7f8c8d;
 }
 
-.form,
+.form {
+  display: none;
+}
+
 .greetings {
   display: none;
 }
